@@ -1,0 +1,30 @@
+# Local Obsidian state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+
+# Obsidian plugins and themes may contain machine-specific state or secrets.
+.obsidian/plugins/*/data.json
+
+# Temporary rendering and local scratch files
+tmp/
+*.tmp
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local shell artifacts accidentally created in the vault root
+/A
+/B\[数字寻源]
+/C\[定价与合同]
+/D\[订单与交付]
+/E\[验收与付款]
+/F\[供应商绩效与风险]
+/G\[数据湖与控制塔]
+
+# Dependency and runtime output
+node_modules/
+*.log
