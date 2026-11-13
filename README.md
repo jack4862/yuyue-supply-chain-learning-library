@@ -28,10 +28,10 @@ tags: [Obsidian, GitHub, 供应链, 使用说明]
 需要安装 Git 和 Obsidian，并登录有该私有仓库权限的 GitHub 账号：
 
 ```powershell
-git clone https://github.com/jack4862/雨月的供应链学习库.git
+git clone https://github.com/jack4862/yuyue-supply-chain-learning-library.git "雨月的供应链学习库"
 ```
 
-然后在 Obsidian 中打开克隆后的文件夹。首次打开先看：
+然后在 Obsidian 中打开克隆后的 `雨月的供应链学习库` 文件夹。首次打开先看：
 
 1. [[首页]]
 2. [[00_导航/使用手册]]

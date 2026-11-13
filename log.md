@@ -76,5 +76,5 @@ tags: [知识库, 日志]
 
 - 新增 `.gitignore`，排除 Obsidian 本机窗口状态、缓存、临时渲染图、操作系统元数据和仓库根目录的零字节 shell 残片；保留可共享的核心配置、Markdown 知识页、OCR 全文和逐页 JSON。
 - 新增 [[README]]，记录从 GitHub 克隆、在 Obsidian 打开、更新、校验和跨设备同步流程，并把它加入 [[index]] 和使用手册。
-- 知识库初始化为 `main` 分支并推送到私有 GitHub 仓库 `jack4862/雨月的供应链学习库`；另一台设备登录同一账号后可克隆使用。
+- 知识库初始化为 `main` 分支并推送到私有 GitHub 仓库 `jack4862/yuyue-supply-chain-learning-library`；另一台设备登录同一账号后可克隆使用。
 
